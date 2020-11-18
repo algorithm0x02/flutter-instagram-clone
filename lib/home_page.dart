@@ -19,7 +19,7 @@ class HomePage extends StatelessWidget {
     child: Center(
       child: Column(
         children: <Widget>[
-          Text('Insta에 오신 것을 환영함',
+          Text('Insta에 오신 것을 환영합니다.',
           style: TextStyle(fontSize: 25),),
           Padding(padding: EdgeInsets.all(30.0)),
           SizedBox(
@@ -77,3 +77,5 @@ class HomePage extends StatelessWidget {
     );
   }
 }
+
+
